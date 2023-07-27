@@ -19,4 +19,4 @@
 
 
 - 🏓 In my free time you can catch me on the pickleball courts or watching movies.
-- 📫 Feel free to reach out to me on LinkedIn.
+- 📫 Feel free to reach out to me on <a href='https://www.linkedin.com/in/julian-macalalag/'>LinkedIn</a>.
